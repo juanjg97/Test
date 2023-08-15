@@ -34,7 +34,7 @@ public class CheckPassword {
     }
 
     public static void main(String[] args) throws Exception {
-        String string = "test 5 a0A pass007 passss008 ?xy1";
+        String string = "test 5 a0A pass007 ?xy1";
         CheckPassword checkPassword = new CheckPassword(string);
 
         int longestPassword = checkPassword.longestPassword();
