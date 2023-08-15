@@ -1,0 +1,2 @@
+Inyección de dependencias.
+La inyección de dependencias es un patrón de diseño para gestionar las dependencias entre componentes de una aplicación, donde éstas se suministran desde el exterior en lugar de que la clase las gestione.
